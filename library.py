@@ -54,4 +54,5 @@ if __name__ == "__main__":
     print(return_book(book))
 
     display_book(book)  # Final state
-valid input. Please enter valid values.")
+    print("Invalid input. Please enter valid values.")
+
